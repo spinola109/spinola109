@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Diogo Spínola and I'm a A sixth-semester programming student who doesn't let technology advance more than me.</h2>
 
 ###
 
