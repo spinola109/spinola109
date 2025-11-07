@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/spinola109/spinola109/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/spinola109/spinola109/blob/output/github-contribution-grid-snake.svg)
 
 ###
