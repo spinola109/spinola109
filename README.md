@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diogo Spínola</h1>
 <h3 align="center">A sixth-semester programming student who doesn't let technology advance more than me.</h3>
+"chartreuse-dark": {
+    title_color: "7fff00",
+    icon_color: "00AEFF",
+    text_color: "fff",
+    bg_color: "000",
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
