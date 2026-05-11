@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Diogo Spínola and I'm a sixth-semester programming student, I already work in the field as a full-stack developer and I love technology.</h2>
+<h2 align="center">Hi 👋! My name is Diogo Spínola and I'm in the last year of programming student, I already work in the field as a full-stack developer and I love technology.</h2>
 
 ###
 
